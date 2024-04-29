@@ -1,0 +1,24 @@
+.employee-main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width:100%;
+}
+.employee-form{
+    background-color: white;
+    padding: 20px;
+}
+.submit-btn{
+    width: 250px;
+    background-color: #7BB459;
+    border: none;
+    height: 30px;
+
+}
+.submit-btn:hover{
+    cursor:pointer;
+}
+.hidden{
+    display: none;
+}

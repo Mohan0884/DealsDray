@@ -1,0 +1,40 @@
+.main-login{
+    height: 100vh;
+    width: 100%;
+    background-color: #7BB459;
+}
+.login-text{
+    font-size: 1.5rem;
+}
+.logo{
+    padding:10px;
+}
+.forms{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80vh;
+}
+.form{
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: white;
+    padding: 20px;
+    height: 350px;
+}
+.login-text{
+    padding: 20px;
+}
+.form-btn{
+    width: 250px;
+    height: 30px;
+    background-color: #7BB459;
+    border: none;
+    color: white;
+}
+.form-btn:hover{
+
+    cursor: pointer;
+}

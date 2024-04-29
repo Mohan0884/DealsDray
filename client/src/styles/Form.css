@@ -1,0 +1,15 @@
+.form-row{
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+    margin-bottom: 5px;
+}
+.form-label{
+    
+}
+.form-input{
+    width:250px;
+    height: 30px;
+    padding: 5px;
+    font-size: 0.8rem;
+}
